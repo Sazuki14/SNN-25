@@ -1,0 +1,27 @@
+{
+  "name": "@minjumabae/snn-25",
+  "version": "1.0.0",
+  "description": "Malam Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sazuki14/SNN-25.git"
+  },
+  "keywords": [
+    "TEA",
+    "Teh",
+    "Manis"
+  ],
+  "author": "ckbn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sazuki14/SNN-25/issues"
+  },
+  "homepage": "https://github.com/Sazuki14/SNN-25#readme",
+  "dependencies": {
+    "snn-25": "^1.0.0"
+  }
+}
